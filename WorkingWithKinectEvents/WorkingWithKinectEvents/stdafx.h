@@ -2,6 +2,9 @@
 // or project specific include files that are used frequently, but
 // are changed infrequently
 //
+/*
+This is based on preliminary software and/or hardware, subject to change
+*/
 
 #pragma once
 

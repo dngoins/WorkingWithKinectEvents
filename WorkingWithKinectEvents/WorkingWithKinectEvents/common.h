@@ -1,4 +1,9 @@
 #pragma once
+
+/*
+This is based on preliminary software and/or hardware, subject to change
+*/
+
 #include <wrl.h>
 #include <algorithm>
 #include <d2d1_1.h>

@@ -1,4 +1,7 @@
 #pragma once
+/*
+This is based on preliminary software and/or hardware, subject to change
+*/
 
 #include "resource.h"
 #include "common.h"
