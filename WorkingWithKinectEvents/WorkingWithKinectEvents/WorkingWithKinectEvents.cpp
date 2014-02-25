@@ -1,5 +1,8 @@
 // WorkingWithKinectEvents.cpp : Defines the entry point for the application.
 //
+/*
+This is based on preliminary software and/or hardware, subject to change
+*/
 
 #include "stdafx.h"
 #include "WorkingWithKinectEvents.h"
